@@ -1,6 +1,6 @@
 # MIAPNet
 
-This is the official code for "Weakly Supervised Few-Shot and Zero-Shot Semantic Segmentation with Mean Instance Aware Prompt Learning", IEEE International Conference on Multimedia and Expo (ICME) 2023.
+This is the official code for "Weakly Supervised Few-Shot and Zero-Shot Semantic Segmentation with Mean Instance Aware Prompt Learning", IEEE International Conference on Multimedia and Expo (ICME) 2023 [Oral].
 
 
 
